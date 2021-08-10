@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95/net%20remoting%20RCE%20%E8%AE%B0%E5%BD%95/</loc>
+    
+    <lastmod>2021-08-10T06:14:21.736Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/%E6%BC%8F%E6%B4%9E%E6%8C%96%E6%8E%98/Multiple%20vulnerabilities%20in%20pgadmin4/</loc>
     
     <lastmod>2020-11-21T03:38:54.407Z</lastmod>
